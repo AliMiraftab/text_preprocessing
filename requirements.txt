@@ -1,0 +1,13 @@
+scikit-learn
+nltk    # for symbolic and statistical MLP
+spacy   # to conduct NLP on large volume of text at high speed. fo rbuilding models and production applications
+pandas
+porter2stemmer
+emoji
+emot
+textblob
+pyspellchecker
+symspellpy
+transformers[torch]
+git+https://github.com/roy-ht/editdistance.git@v0.6.2 # for contextualspellcheck 0.4.4 which required editdistance==0.6.2
+contextualSpellCheck

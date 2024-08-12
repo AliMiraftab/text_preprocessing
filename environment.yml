@@ -1,0 +1,9 @@
+name: text_preprocessing
+channles:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+- pip
+- pip:
+  - -r requirements.txt
